@@ -1,25 +1,29 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Computer Engineer 👨‍🎓, Full Stack Developer 🚀, Mobile Developer📱!
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other React Native developer 👩‍💻 and mobile app designers 🎨
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+## I'm a Computer Engineer 👨‍🎓, 
+## Full Stack Developer 🚀, 
+## Mobile Developer📱!
+- 👋 Hi there, I'm Huseyin
+- 🔭 I’m interested javascript technologies like React, Angular and Vue at the Front-End
+- 🔭 I’m interested .Net Core technologies
+- 🔭 I’m developing React Native applications
+- 🌱 I’m currently and always learning 
+- ⚡ I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀
+- ⚡ I like to play video games like CS:GO 🔥
+- 👉 [hcumali16@gmail.com][gmail]
 
 
 ## ⏲ What we are doing now:
-I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
-I also work as a FreeLancer 🆓.
+I'm developing a project for the place i work 🚀, I am writing on 2 sites 📃.
+I'm developing an app with my team 👨🏼‍🤝‍👨🏻, I also work as a FreeLancer 🆓.
 
 <br />
 
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />][gmail]
+[<img align="left" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
+[<img align="left" width="24" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />][gmail]
 
 <br />
 
@@ -34,11 +38,6 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 
