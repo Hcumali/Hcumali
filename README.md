@@ -1,31 +1,23 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Computer Engineer 👨‍🎓, 
-## Full Stack Developer 🚀, 
-## Mobile Developer📱!
+## I'm a Computer Engineer 👨‍🎓, Full Stack Developer 🚀, Mobile Developer📱!
+
 - 👋 Hi there, I'm Huseyin
 - 🔭 I’m interested javascript technologies like React, Angular and Vue at the Front-End
 - 🔭 I’m interested .Net Core technologies
 - 🔭 I’m developing React Native applications
 - 🌱 I’m currently and always learning 
-- ⚡ I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀
-- ⚡ I like to play video games like CS:GO 🔥
+- ⚡ I love to swim 🏊‍♀️, play chess ♟, play video games 🔥
 - 👉 [hcumali16@gmail.com][gmail]
 
 
-## ⏲ What we are doing now:
-I'm developing a project for the place i work 🚀, I am writing on 2 sites 📃.
-I'm developing an app with my team 👨🏼‍🤝‍👨🏻, I also work as a FreeLancer 🆓.
-
-<br />
-
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
-[<img align="left" width="24" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" height="24" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" width="24" height="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
+[<img align="left" width="24" height="24" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />][gmail]
 
-<br />
+<br /><br />
 
 ### 🔧 Languages and Tools:
 
@@ -38,15 +30,16 @@ I'm developing an app with my team 👨🏼‍🤝‍👨🏻, I also work as a 
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 
-<br />
-
+<br /><br />
 
 ### GitHub Analytics 📊
+<img height="120em" align="left" src="https://camo.githubusercontent.com/91d7328cd0c09714a78f28a850218ce4e51532d562786e7b09e797f068affe61/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a7562314467756841746b434c766855477556477236772e706e67" />
+<img height="120em" align="left" src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" />
+<img height="120em" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
+<img height="120em" align="left" src="https://www.join.com.tr/wp-content/uploads/2021/01/c1.png" />
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
 
-<br />
+
 <br />
 
 [instagram]: https://www.instagram.com/hsyncumali
