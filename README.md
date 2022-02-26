@@ -36,8 +36,6 @@
 <img height="120em" align="left" src="https://camo.githubusercontent.com/91d7328cd0c09714a78f28a850218ce4e51532d562786e7b09e797f068affe61/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a7562314467756841746b434c766855477556477236772e706e67" />
 <img height="120em" align="left" src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" />
 <img height="120em" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
-<img height="120em" align="center" src="https://www.join.com.tr/wp-content/uploads/2021/01/c1.png" />
-
 
 
 <br />
